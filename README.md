@@ -24,6 +24,6 @@ As user client/ person of interest I would like to Travel to Iceland and spend
 Instructions
 
 Name top three cities you would like to travel to 
-1.
-2.
-3.
+1. Frankfurt
+2. Tokyo
+3. London
